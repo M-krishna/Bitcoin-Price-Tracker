@@ -1,7 +1,6 @@
 import requests
 import schedule
 import time
-from datetime import datetime
 
 
 def track_bitcoin_price():
